@@ -1,0 +1,5 @@
+*.idea
+*.splite
+*pyc
+*db.sqlite3
+media
